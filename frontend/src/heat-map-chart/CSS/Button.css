@@ -1,0 +1,49 @@
+.low {
+    background-color: #87C1FF ;
+    border: none ;
+    border-radius: 40px ;
+    width: 100px;
+    height: 40px;
+ }
+ .good {
+     background-color: #90EE90;
+     border: none ;
+     border-radius: 40px ;
+     height: 40px;
+     width: 100px;
+ }
+ .moderate {
+     background-color:#FFFF00 ;
+     border: none ;
+     border-radius: 40px ;
+     height: 40px;
+     width: 100px;
+ }
+ 
+ .High {
+     background-color:#FF0000 ;
+     border: none ;
+     border-radius: 40px ;
+     height: 40px;
+     width: 100px;
+ }
+ 
+ .Hazardous {
+     background-color:#800080 ;
+     border: none ;
+     border-radius: 40px ;
+     height: 40px;
+     width: 100px;
+ }
+ 
+ 
+ .buttons {
+     position: fixed;
+     bottom: 20px;
+     right: 20px;
+     display: flex;
+   }
+ 
+ 
+   
+  

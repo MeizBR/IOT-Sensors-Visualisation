@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&family=Dancing+Script:wght@500;600;700&display=swap');
+
+.info.legend {
+  background-color: white;
+  box-shadow: 0 7px 7px rgba(0, 0, 0, 0.65);
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+}
+
+.info.legend .title {
+  color: crimson;
+  font-family: 'Dancing Script', cursive;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.info.legend .shape {
+  width: 3px;
+  height: 30px;
+  border: none;
+  background-color: crimson;
+}
+
+.info.legend span {
+  font-weight: bold;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 16px;
+}
+
+.info.legend i {
+  width: 80px;
+  height: 30px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 0 5px 0 10px;
+  cursor: pointer;
+  text-align: center;
+}
